@@ -1,8 +1,8 @@
 #!/bin/bash
-##Author: Narges Ahmadi (Narcis)  Email:s.ahmadi@zi-tesl.com
+##Author: Narges Ahmadi (NarcisLinux)  Email:n.sedigheh.ahmadi@gmail.com
 ##Vertion 1
-##This screen should update all type of screen
 ##
+##Whit this script you gan get zabbix screen item information
 ##
 #############Authentication#############
 USER=''
