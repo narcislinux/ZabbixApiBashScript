@@ -2,7 +2,7 @@
 ##Author: Narges Ahmadi (NarcisLinux)  Email:n.sedigheh.ahmadi@gmail.com
 ##Vertion 1
 ##
-##Whit this script you gan get zabbix screen item information
+##Whit this script you can get zabbix screen item information
 ##
 #############Authentication#############
 USER=''
