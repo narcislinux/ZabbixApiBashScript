@@ -11,7 +11,7 @@ PASS=''
 #read -p "Password:" -s PASS
 
 #ZABBIX_SERVER='zabbix.server.com'
-#For example "API='http://192.168.0.10/zabbix/api_jsonrpc.php'"
+#For example "API='http://192.168.0.100/zabbix/api_jsonrpc.php'"
 API='http:///api_jsonrpc.php'
 
 
